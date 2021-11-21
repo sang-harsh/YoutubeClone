@@ -134,7 +134,7 @@ hr{
 }
 
 .author img{
-  object-fit:contain;
+  object-fit:contain   ;
   margin-right:10px;
   height:40px;  
   width:40px;
